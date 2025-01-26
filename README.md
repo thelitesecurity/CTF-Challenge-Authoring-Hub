@@ -26,6 +26,14 @@
 ##### Drawing inspiration from other challenges is acceptable, but copy past is strictly prohibited.
 ##### Add your unique twist to make the challenge engaging and distinct.
 
+### 4. Rabbit Holes
+##### Very Easy & Easy Challenges: No rabbit holes allowed.
+##### Players should be able to follow a logical path to the solution without unnecessary distractions.
+##### Medium Challenges: No rabbit holes allowed.
+##### The solution should remain clear and accessible without misleading steps.
+##### Hard Challenges: Rabbit holes are permitted but should not dominate the challenge.
+##### Rabbit holes must be implemented thoughtfully, ensuring they don’t render the challenge excessively.
+
 ### 4. Detailed Write-Up
 ##### Provide a comprehensive write-up for each challenge, including:
 ##### Problem Description: What the player needs to do.
